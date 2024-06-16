@@ -15,6 +15,7 @@ I mainly use Python, Java and Express.js for back end development. I am particul
 ## Contact
 
 Email: gabriel.chan166@gmail.com
+
 LinkedIn: http://www.linkedin.com/in/gabriel-chan-525115164
 
 <!--
